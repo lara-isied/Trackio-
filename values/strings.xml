@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Trakio</string>
+    <string name="action_settings">Settings</string>
+    <string name="Student">Student</string>
+    <string name="Admin">Admin</string>
+    <string name="Driver">Driver</string>
+    <string name="Signin">Signin</string>
+    <string name="Signup">Signup</string>
+    <string name="SignUpText"><u>New SignUp ?</u></string>
+    <string name="Submit">Submit</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_drawer">Drawer_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="google_key">AIzaSyD8bw0Oxm6WSCmH9xNya_fW9aP2-j4TnuI</string>
+
+    <string name="menu_share">Start sharing location</string>
+    <string name="menu_stop_sharing">Stop sharing location</string>
+    <string name="menu_SignOut">Sign Out</string>
+    <string name="username">UserName</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone</string>
+    <string name="Department">Department</string>
+    <string name="Address">Address</string>
+    <string name="title_activity_student_search">StudentSearchActivity</string>
+
+
+</resources>
